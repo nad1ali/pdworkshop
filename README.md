@@ -8,3 +8,5 @@
 #### In this repo, you can find the example patch with all the instructions + additional activites, structured like a workbook. It's designed so you can work through it at your own pace after the workshop, if you wish to. 
 
 #### Please don't hesitate to contact me if you have any questions! 
+
+#### My website is : https://nadialiportfolio.netlify.app/
